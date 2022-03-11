@@ -3,7 +3,7 @@
 JSP/Servletで「共有TODOリスト」を作ってみました。
 
 
-##　開発環境
+## 開発環境
 
 - macOS 12.1
 - Eclipse 2021-12
